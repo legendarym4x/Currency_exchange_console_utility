@@ -1,4 +1,4 @@
-## Homework 05
+## Currency Exchange Console Utility 
 
 In this task, we wrote a console utility that returns the EUR and USD exchange rates of PrivatBank for the past few days. 
 
